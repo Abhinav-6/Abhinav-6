@@ -1,7 +1,7 @@
 Hi 👋 My name is Abhinav Kumar
 ==============================
 
-Web developer and Web3 learner
+Web developer and Web3 explorer
 ------------------------------
 
 * 🌍  I'm based in India
